@@ -4,7 +4,7 @@ Um projeto simples e moderno feito com HTML, CSS e JavaScript, com o objetivo de
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para visualizar o projeto online](https://Aline724.github.io/livros-anuncio/)  
+🔗 [Clique aqui para visualizar o projeto online](file:///C:/Users/araki/OneDrive/Documentos/anunciolivroteste.html)  
 
 ---
 
@@ -34,4 +34,4 @@ As imagens foram retiradas de bancos gratuitos como:
 ## ✨ Autor
 
 Feito com carinho por *Aline Araki* 👩‍💻  
-[LinkedIn](https://www.linkedin.com/in/alinearaki) | [GitHub](https://github.com/seunomeusuario)
+[LinkedIn](https://www.linkedin.com/in/aline-araki-8845b6132) | [GitHub](https://github.com/Aline724)

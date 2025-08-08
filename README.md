@@ -4,7 +4,7 @@ Um projeto simples e moderno feito com HTML, CSS e JavaScript, com o objetivo de
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para visualizar o projeto online] file:///C:/Users/araki/OneDrive/Documentos/anunciolivroteste.html  
+🔗 [Clique aqui para visualizar o projeto online] (file:///C:/Users/araki/OneDrive/Documentos/anunciolivroteste.html)  
 
 ---
 

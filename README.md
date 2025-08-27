@@ -3,7 +3,7 @@
 Um projeto simples e moderno feito com HTML, CSS e JavaScript, com o objetivo de simular um anúncio de um site de livros. Criado como parte do meu portfólio para prática de front-end.
 
 ## 🚀 Acesse o Projeto
-🔗 [Clique aqui para visualizar o site](https://Aline724.github.io/file:///C:/Users/araki/OneDrive/Documentos/anunciolivroteste.html/)
+🔗 [Clique aqui para visualizar o site](https://github.com/Aline724.github.io/file:///C:/Users/araki/OneDrive/Documentos/Livros%20para%20Todos.html/)
 
 ---
 
